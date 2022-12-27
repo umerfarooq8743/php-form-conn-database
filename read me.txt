@@ -1,0 +1,3 @@
+data base name= tour
+table name= pak travels
+colume =12
